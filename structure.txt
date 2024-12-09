@@ -1,0 +1,11 @@
+MSFS-Plugin/
+│
+├── main.py          # Entry point of the application
+├── config/
+│   └── presets.json # Stores preset configurations
+├── core/
+│   └── simconnect.py # Handles SimConnect interactions
+├── ui/
+│   └── gui.py       # GUI-related code
+├── .gitignore       # Exclude unnecessary files
+└── README.md        # Documentation
