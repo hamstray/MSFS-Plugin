@@ -1,0 +1,3 @@
+[submodule "pysimconnect"]
+	path = pysimconnect
+	url = https://github.com/patricksurry/pysimconnect.git
